@@ -16,16 +16,16 @@
     "2stars": 8,
     "1stars": 2
   },
-  "twitch": {
+  "libreoffice": {
     "id": 1,
-    "name": "Twitch",
-    "url": "http://therolf.fr/tools/twitch/",
-    "description": "Stream and chat on a adapted player",
+    "name": "Libre Office",
+    "url": "https://www.libreoffice.org/",
+    "description": "Editor Suite",
     "background": "",
-    "category": "Photo & video",
+    "category": "Word Proccescing",
     "themecolor": "",
-    "author": "TheRolf",
-    "icon": "http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c540.png",
+    "author": "Mozilla",
+    "icon": "http://bernaerts.dyndns.org/images/technoblog/gnome/openoffice-icon.png",
     "stars": 50,
     "5stars": 30,
     "4stars": 10,
