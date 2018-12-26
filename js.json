@@ -67,15 +67,15 @@
     "2stars": 8,
     "1stars": 2
   },
-  "netflix": {
+  "code": {
     "id": 4,
-    "name": "Netflix",
-    "url": "http://therolf.fr/tools/netflix/",
-    "description": "Hidden functionality for Netflix",
+    "name": "Visual Studio Code",
+    "url": "https://code.visualstudio.com/",
+    "description": "Vscoder",
     "background": "",
-    "category": "Entertainment",
+    "category": "Code Ide",
     "themecolor": "#fff",
-    "author": "Netflix",
+    "author": "Microsoft",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1028px-Visual_Studio_Code_1.18_icon.svg.png",
     "stars": 50,
     "5stars": 30,
