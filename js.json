@@ -33,16 +33,16 @@
     "2stars": 8,
     "1stars": 2
   },
-  "spotify": {
+  "gimp": {
     "id": 2,
-    "name": "Spotify Music",
-    "url": "http://therolf.fr/tools/spotify/",
-    "description": "Simple music player for spotify",
+    "name": "GIMP",
+    "url": "https://www.gimp.org",
+    "description": "GNU Image Manipulation Program",
     "background": "",
-    "category": "Music",
+    "category": "Image Editors",
     "themecolor": "",
-    "author": "TheRolf",
-    "icon": "https://www.shareicon.net/download/2016/08/01/639870_internet.ico",
+    "author": "GNU",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gimp-icon-scalable.svg/2000px-Gimp-icon-scalable.svg.png",
     "stars": 50,
     "5stars": 30,
     "4stars": 10,
