@@ -50,15 +50,15 @@
     "2stars": 8,
     "1stars": 2
   },
-  "evernote": {
+  "aIDE": {
     "id": 3,
-    "name": "Evernote",
-    "url": "http://therolf.fr/tools/evernote/",
-    "description": "Evernote for TopGUI",
+    "name": "Arduino IDE",
+    "url": "ardunio.cc",
+    "description": "Program your Arduino",
     "background": "",
-    "category": "Productivity",
+    "category": "IDE's",
     "themecolor": "#2DBE5F",
-    "author": "Evernote",
+    "author": "Arduino-GNU",
     "icon": "https://i2.wp.com/www.mac-torrent-download.net/wp-content/uploads/2016/05/arduino_uno_ide_icon.jpg?resize=175%2C175",
     "stars": 50,
     "5stars": 30,
